@@ -253,3 +253,5 @@ ls --color=auto
 cd ../../..
 cd images
 ls --color=auto
+mv website ..
+mv header.png ..
