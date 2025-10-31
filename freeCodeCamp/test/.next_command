@@ -255,3 +255,4 @@ cd images
 ls --color=auto
 mv website ..
 mv header.png ..
+ls --color=auto
