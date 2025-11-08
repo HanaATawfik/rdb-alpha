@@ -386,3 +386,6 @@ find -name footer.jpeg
 mv website
 cd website
 find -name footer.jpeg
+mv --help
+mv footer.jpeg client/assets/images
+mv images/footer.jpeg client/assets/images
