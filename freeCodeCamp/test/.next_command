@@ -402,3 +402,10 @@ cd ..
 ls --color=auto
 rmdir images
 ls --color=auto
+mkdir assets/icons
+ls --color=auto -a
+ls --color=auto fonts
+ls --color=auto client
+pd client
+mkdir /website/client/assets/icons
+mkdir client/assets/icons
