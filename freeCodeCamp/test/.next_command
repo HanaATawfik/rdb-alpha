@@ -493,3 +493,4 @@ ls --color=auto
 ls --color=auto website
 cd website
 mv CodeAlly.svg client/assets/icons
+find
