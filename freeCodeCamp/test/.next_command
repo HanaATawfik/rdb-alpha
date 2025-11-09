@@ -508,3 +508,10 @@ mv CodeRoad.svg icons
 ls --color=auto
 mv CodeRoad.svg client/assets/icons
 mv CodeRoad.svg icons
+ls --color=auto
+ls --color=auto client
+ls --color=auto assets
+ls --color=auto client/assets
+ls --color=auto client/assets/icons
+ls --color=auto
+mv CodeRoad.svg ./client/assets/icons
