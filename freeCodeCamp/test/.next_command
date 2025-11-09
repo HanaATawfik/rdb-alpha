@@ -494,3 +494,17 @@ ls --color=auto website
 cd website
 mv CodeAlly.svg client/assets/icons
 find
+ls --color=auto icons
+cd icons
+cd ./icons
+ls --color=auto
+cd /website/icons
+find icons
+find ./icons -type f -name CodeAlly.svg
+ls --color=auto
+mv /website/CodeRoad.svg /website/icons
+mv CodeRoad.svg /website/icons
+mv CodeRoad.svg icons
+ls --color=auto
+mv CodeRoad.svg client/assets/icons
+mv CodeRoad.svg icons
